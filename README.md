@@ -1,5 +1,3 @@
----
-
 # AI Fitness Tracker
 
 An intelligent fitness tracker desktop application built using Python's Tkinter GUI toolkit and Scikit-learn. It allows users to register/login, calculate BMI, receive personalized workout recommendations, log daily workout data, predict calorie burn trends using Linear Regression, and get expert fitness advice.
